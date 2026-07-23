@@ -3,7 +3,7 @@ from sqlalchemy import create_engine, text
 
 # Configurações de Conexão
 DB_USER = "sa"
-DB_PASS = "Jihah#1991"  # ⚠️ Substitua pela sua senha do Docker
+DB_PASS = "---"  # ⚠️ Substitua pela sua senha do Docker
 DB_HOST = "localhost"
 DB_PORT = "1433"
 NOVO_BANCO = "db_analytics_escolas"
