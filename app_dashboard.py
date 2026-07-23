@@ -11,7 +11,7 @@ st.set_page_config(
 
 # Configuração da Conexão com o SQL Server
 DB_USER = "sa"
-DB_PASS = "Jihah#1991"  # ⚠️ Substitua pela sua senha do Docker
+DB_PASS = "---"  # ⚠️ Substitua pela sua senha do Docker
 DB_HOST = "localhost"
 DB_PORT = "1433"
 DB_NAME = "master"
