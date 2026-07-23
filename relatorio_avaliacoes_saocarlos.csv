@@ -1,0 +1,9 @@
+escola_id,nome_escola,avaliacao_original,sentimento,elogios,reclamacoes
+101,Escola de Inglês Centro,A estrutura da escola perto do centro é excelente e os professores são nativos. Porém a recepção na hora da rematrícula foi muito demorada.,Neutro,"Estrutura da escola, Professores nativos",Demora no atendimento da recepção durante a rematrícula
+102,Colégio São Carlos Tech,A metodologia de ensino é inovadora e os laboratórios são ótimos. O preço é um pouco alto mas vale o investimento.,Positivo,"Metodologia de ensino inovadora, Laboratórios ótimos, Custo-benefício",Preço alto
+103,Instituto Idiomas Villa,Sala de aula barulhenta e o ar-condicionado quebrou duas vezes este mês. Os professores se esforçam mas a direção não ajuda.,Negativo,Esforço dos professores,"Sala de aula barulhenta, Problemas com o ar-condicionado, Falta de suporte da direção"
+104,Academia de Línguas Santa Felícia,Professores extremamente atenciosos e ambiente super acolhedor. As salas são amplas e bem iluminadas. Nota 10!,Positivo,"Professores atenciosos, Ambiente acolhedor, Salas amplas e bem iluminadas",
+105,Escola de Inglês Centro,"O curso é bom mas o estacionamento é péssimo, quase impossível parar o carro no horário das 18h.",Neutro,Curso,Estacionamento
+106,Colégio São Carlos Tech,A coordenação pedagógica demorou duas semanas para responder meu e-mail sobre as provas substitutivas. Desorganização total.,Negativo,,"Demora na resposta da coordenação pedagógica sobre provas substitutivas, Desorganização da coordenação"
+107,Instituto Idiomas Villa,Material didático atualizado e excelente suporte na plataforma online. Recomendo demais!,Positivo,"Material didático atualizado, Suporte na plataforma online",
+108,Academia de Línguas Santa Felícia,Preço muito acima da média da cidade e a carga horária das aulas práticas diminuiu este ano sem aviso prévio.,Negativo,,"Preço muito acima da média da cidade, Diminuição da carga horária das aulas práticas sem aviso prévio"
